@@ -1,2 +1,2 @@
-# CC-Python-Projects
-Project work relating to content learnt on Codecademy courses.
+# Personal Projects
+These are projects created for personal and academic development. 
